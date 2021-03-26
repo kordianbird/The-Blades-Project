@@ -3,7 +3,14 @@
      background: #212529 !important;
  }
  
- 
+.navbar,
+.navbar-expand-sm,
+.navbar-dark,
+.bg-dark {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
  /* HEADER */       
 
 .navbar-brand {
@@ -13,6 +20,10 @@
     background-repeat: repeat;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
+    font-family: 'Brush Script MT' !important;
+    font-size: 80px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
     
 }
 
@@ -108,20 +119,34 @@ li {
 
   /* BAND INFO */
 
+  .container-marketing {
+      margin: 0 60px 0 50px;
+  }
+
+  .col-md-3 {
+      padding: 0 !important;
+  }
+
   .col-md-3 img {
       border: seashell 3px solid;
       border-radius: 40px;
       margin-top: 0;
       display: inline-block;
-      margin-left: 100px;
+      margin-left: 80px;
+  }
+
+  .col-md-9 {
+      padding-top: 5px;
+      border: seashell 3px solid;
+      border-radius: 40px;
+      background: linear-gradient(to right, purple, red);
   }
 
   .col-md-9 p {
     color: #fff;
-    border: seashell 3px solid;
-    border-radius: 40px;
-    background: linear-gradient(to right, purple, red);
-    margin-right: 20px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
     
   }
 
