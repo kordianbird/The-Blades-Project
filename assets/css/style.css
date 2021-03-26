@@ -8,6 +8,12 @@
 
 .navbar-brand {
     padding-left: 20px;
+    background-image: linear-gradient(45deg, blue, red);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    
 }
 
 .navbar-brand img {
@@ -70,6 +76,7 @@ li {
       width: 800px;
       border: seashell 3px solid;
       border-radius: 40px;
+      background: linear-gradient(to right, purple, red);
   }
 
   .about-heading h2 {
@@ -90,6 +97,7 @@ li {
       text-align: center;
       margin-left: auto;
       margin-right: auto;
+      font-size: 20px;
   }
 
   .about-band {
@@ -106,7 +114,7 @@ li {
   }
 
   .band-info img {
-      border: seashell 3px solid ;
+      border: seashell 3px solid;
       border-radius: 40px;
       margin-top: 0;
       display: inline-block;
