@@ -96,14 +96,21 @@ li {
 
   .band-info {
       background-color: #212529;
+      
   }
 
   .band-info img {
       border: seashell 3px solid ;
       border-radius: 40px;
       margin-top: 30px;
+      display: inline-block;
+      margin-left: 100px;
   }
 
   .img-chris {
       margin-top: 100px !important;
+  }
+
+  .img-liam {
+      margin-bottom: 30px;
   }
