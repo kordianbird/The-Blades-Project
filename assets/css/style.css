@@ -1,4 +1,9 @@
 
+ body {
+     background: #212529 !important;
+ }
+ 
+ 
  /* HEADER */       
 
 .navbar-brand {
@@ -89,6 +94,7 @@ li {
 
   .about-band {
       background-color: #212529;
+      margin-bottom: 50px;
       
   }
 
@@ -102,13 +108,21 @@ li {
   .band-info img {
       border: seashell 3px solid ;
       border-radius: 40px;
-      margin-top: 30px;
+      margin-top: 0;
       display: inline-block;
       margin-left: 100px;
   }
 
+  .band-info p {
+      color: #fff;
+      padding-left: 170px;
+      margin-bottom: 0;
+      font-size: 30px;
+      font-family: 'Bebas Neue', cursive;
+  }
+
   .img-chris {
-      margin-top: 100px !important;
+      margin-top: 0 !important;
   }
 
   .img-liam {
