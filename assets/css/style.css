@@ -1,3 +1,6 @@
+
+ /* HEADER */       
+
 .navbar-brand {
     padding-left: 20px;
 }
@@ -16,12 +19,7 @@ li {
     margin-right: 20px;
 }
 
-.jumbotron {
-  color: white;
-  background-image:url(/assets/images/music-concert2.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-}
+/* HERO IMAGE */
 
 .hero {
   height: 100vh;
@@ -43,6 +41,8 @@ li {
     min-width: 100%;
     min-height: 100%;
   } 
+
+  /* ABOUT */
 
   h2 {
       text-align: center;
@@ -91,6 +91,8 @@ li {
       background-color: #212529;
       
   }
+
+  /* BAND INFO */
 
   .band-info {
       background-color: #212529;
