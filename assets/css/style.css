@@ -48,6 +48,7 @@ li {
       text-align: center;
       background-color: #fff;
       width: 200px;
+      text-align: center;
       margin: auto;
       border-radius: 25px;
       font-family: 'Roboto';
@@ -58,9 +59,34 @@ li {
   .about {
       background-color: #212529;
       padding-top: 30px;
+      margin-bottom: 0;
+      margin-left: auto;
+      margin-right: auto;
+      width: 800px;
+      border: seashell 3px solid;
+      border-radius: 40px;
+  }
+
+  .about-heading h2 {
+      margin-bottom: 0;
+      background-color: #212529;
+      padding-top: 50px;
+      color: #fff;   
+      padding-bottom: 30px;
+      font-size: 40px;
+  }
+
+  .about-heading {
+      background-color: #212529;
   }
 
   .about p {
       color: #fff;
       text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  .about-band {
+      background-color: #212529;
   }
