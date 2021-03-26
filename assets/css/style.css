@@ -108,12 +108,7 @@ li {
 
   /* BAND INFO */
 
-  .band-info {
-      background-color: #212529;
-      
-  }
-
-  .band-info img {
+  .col-md-3 img {
       border: seashell 3px solid;
       border-radius: 40px;
       margin-top: 0;
@@ -121,18 +116,15 @@ li {
       margin-left: 100px;
   }
 
-  .band-info p {
-      color: #fff;
-      padding-left: 170px;
-      margin-bottom: 0;
-      font-size: 30px;
-      font-family: 'Bebas Neue', cursive;
+  .col-md-9 p {
+    color: #fff;
+    border: seashell 3px solid;
+    border-radius: 40px;
+    background: linear-gradient(to right, purple, red);
+    margin-right: 20px;
+    
   }
 
-  .img-chris {
-      margin-top: 0 !important;
-  }
-
-  .img-liam {
-      margin-bottom: 30px;
+  .row {
+      margin-bottom: 20px;
   }
