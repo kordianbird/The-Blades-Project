@@ -135,6 +135,14 @@ li {
       margin-left: 80px;
   }
 
+  .col-md-3 p {
+      color: #fff;
+      text-align: center;
+      margin-right: 90px;
+      font-family: 'Anton', sans-serif;
+      letter-spacing: 2px;
+  }
+
   .col-md-9 {
       padding-top: 5px;
       border: seashell 3px solid;
