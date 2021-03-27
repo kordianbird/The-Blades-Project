@@ -212,9 +212,10 @@ li {
 
   .hero-img .center {
       color: #fff;
-      font-size: 100px;
+      font-size: 150px;
       position: absolute;
-      bottom: 550px;
+      bottom: 350px;
+      left: 270px;
       font-family: 'Brush Script MT';
   }
 
@@ -223,6 +224,15 @@ li {
       font-size: 200px;
       position: absolute;
       bottom: 350px;
+      left: 350px;
+      font-family: 'Brush Script MT';
+  }
+
+  .hero .center {
+      color: #fff;
+      font-size: 200px;
+      position: absolute;
+      bottom: 300px;
       left: 350px;
       font-family: 'Brush Script MT';
   }
