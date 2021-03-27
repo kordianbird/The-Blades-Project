@@ -50,6 +50,19 @@
     width: 80px;
 }
 
+.gallery-page .navbar-brand {
+    padding-left: 20px; 
+    font-family: 'Brush Script MT' !important;
+    font-size: 80px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.gallery-page .navbar-brand img {
+    height: 80px;
+    width: 80px;
+}
+
 ul {
     letter-spacing: 2px;
 }
@@ -95,6 +108,11 @@ li {
     width: 100%;
     top: 0;
     
+}
+
+.hero-gallery img {
+    width: 100%;
+    height: 800px;
 }
 
   /* ABOUT */
