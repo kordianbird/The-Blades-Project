@@ -74,27 +74,23 @@ li {
 /* HERO IMAGE */
 
 .hero {
-  height: 100vh;
-  overflow: hidden;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    height: 800px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero img {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%,-50%);
-    transform: translate(-50%,-50%);
-    width: 1500px;
-    min-width: 100%;
-    min-height: 100%;
+    height: 800px;
+    width: 100%;
+    top: 0;
   } 
 
 .hero-img {
-    height: 100vh;
+    height: 800px;
     overflow: hidden;
     position: relative;
     display: flex;
