@@ -214,11 +214,20 @@ li {
       padding-left: 0 !important;
   }
 
-  .center {
+  .hero-img .center {
       color: #fff;
       font-size: 100px;
       position: absolute;
       bottom: 550px;
+      font-family: 'Brush Script MT';
+  }
+
+  .hero-gallery .center {
+      color: #fff;
+      font-size: 200px;
+      position: absolute;
+      bottom: 350px;
+      left: 350px;
       font-family: 'Brush Script MT';
   }
 
