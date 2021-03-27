@@ -1,6 +1,6 @@
 
  body {
-     background: #212529 !important;
+     background-color: #212529 !important;
  }
  
 .navbar,
@@ -45,7 +45,6 @@ li {
 
 .hero {
   height: 100vh;
-  height: 100vh;
   overflow: hidden;
   position: relative;
   display: flex;
@@ -63,6 +62,23 @@ li {
     min-width: 100%;
     min-height: 100%;
   } 
+
+.hero-img {
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-img img {
+    position: absolute;
+    height: 800px;
+    width: 100%;
+    top: 0;
+    
+}
 
   /* ABOUT */
 
@@ -100,7 +116,7 @@ li {
   }
 
   .about-heading {
-      background-color: #212529;
+      
   }
 
   .about p {
@@ -113,14 +129,14 @@ li {
 
   .about-band {
       background-color: #212529;
-      margin-bottom: 50px;
+      
       
   }
 
   /* BAND INFO */
 
   .container-marketing {
-      margin: 0 60px 0 50px;
+      margin: 50px 60px 0 50px;
   }
 
   .col-md-3 {
@@ -160,4 +176,15 @@ li {
 
   .row {
       margin-bottom: 20px;
+  }
+
+  .container-fluid {
+      padding-left: 0 !important;
+  }
+
+  .center {
+      color: #fff;
+      font-size: 80px;
+      position: absolute;
+      bottom: 550px;
   }
