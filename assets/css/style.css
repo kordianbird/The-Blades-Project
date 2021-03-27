@@ -114,7 +114,6 @@ li {
   .about {
       background-color: #212529;
       padding-top: 30px;
-      margin-bottom: 0;
       margin-left: auto;
       margin-right: auto;
       width: 800px;
@@ -145,12 +144,13 @@ li {
       background-color: #212529;
       
       
+      
   }
 
   /* BAND INFO */
 
   .container-marketing {
-      margin: 50px 60px 0 50px;
+      margin: 100px 60px 100px 50px;
   }
 
   .container-marketing .col-md-3 {
@@ -173,23 +173,23 @@ li {
       letter-spacing: 2px;
   }
 
-  .container-marketing .col-md-9 {
+  .container-marketing .col-md-8 {
       padding-top: 5px;
       border: seashell 3px solid;
       border-radius: 40px;
       background: linear-gradient(to right, purple, red);
   }
 
-  .container-marketing .col-md-9 p {
+  .container-marketing .col-md-8 p {
     color: #fff;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
     font-size: 20px;
     
   }
 
   .row {
-      margin-bottom: 20px;
+      margin-bottom: 50px;
   }
 
   .container-fluid {
@@ -208,14 +208,23 @@ li {
     color: #fff;
     padding: 0 50px 0 50px;
     text-align: center;
+    border: seashell 3px solid;
+    border-radius: 40px;
   }
 
-  .news .col-md-9 {
+  .news .col-md-3 h3 {
+      margin-top: 10px;
+  }
+
+  .news .col-md-8 {
     padding: 0;
     background: linear-gradient(to right, #89CFF0, blue);
+    margin-left: 60px;
+    
   }
 
-  .news .col-md-9 p {
+  .news .col-md-8 p {
       margin-left: 10px;
       margin-right: 10px;
+      margin-top: 16px;
   }
