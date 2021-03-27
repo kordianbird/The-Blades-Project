@@ -13,7 +13,7 @@
 
  /* HEADER */       
 
-.navbar-brand {
+.home-page .navbar-brand {
     padding-left: 20px;
     background-image: linear-gradient(45deg, blue, red);
     background-size: 100%;
@@ -27,11 +27,28 @@
     
 }
 
-.navbar-brand img {
+.home-page .navbar-brand img {
     height: 80px;
     width: 80px;
 }
 
+.news-page .navbar-brand {
+    padding-left: 20px;
+    background-image: linear-gradient(45deg, #89CFF0, blue);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    font-family: 'Brush Script MT' !important;
+    font-size: 80px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.news-page .navbar-brand img {
+    height: 80px;
+    width: 80px;
+}
 
 ul {
     letter-spacing: 2px;
@@ -115,9 +132,6 @@ li {
       font-size: 40px;
   }
 
-  .about-heading {
-      
-  }
 
   .about p {
       color: #fff;
@@ -139,11 +153,11 @@ li {
       margin: 50px 60px 0 50px;
   }
 
-  .col-md-3 {
+  .container-marketing .col-md-3 {
       padding: 0 !important;
   }
 
-  .col-md-3 img {
+  .container-marketing .col-md-3 img {
       border: seashell 3px solid;
       border-radius: 40px;
       margin-top: 0;
@@ -151,7 +165,7 @@ li {
       margin-left: 80px;
   }
 
-  .col-md-3 p {
+  .container-marketing .col-md-3 p {
       color: #fff;
       text-align: center;
       margin-right: 90px;
@@ -159,14 +173,14 @@ li {
       letter-spacing: 2px;
   }
 
-  .col-md-9 {
+  .container-marketing .col-md-9 {
       padding-top: 5px;
       border: seashell 3px solid;
       border-radius: 40px;
       background: linear-gradient(to right, purple, red);
   }
 
-  .col-md-9 p {
+  .container-marketing .col-md-9 p {
     color: #fff;
     text-align: center;
     margin-top: 20px;
@@ -184,7 +198,24 @@ li {
 
   .center {
       color: #fff;
-      font-size: 80px;
+      font-size: 100px;
       position: absolute;
       bottom: 550px;
+      font-family: 'Brush Script MT';
+  }
+
+  .news .col-md-3 {
+    color: #fff;
+    padding: 0 50px 0 50px;
+    text-align: center;
+  }
+
+  .news .col-md-9 {
+    padding: 0;
+    background: linear-gradient(to right, #89CFF0, blue);
+  }
+
+  .news .col-md-9 p {
+      margin-left: 10px;
+      margin-right: 10px;
   }
