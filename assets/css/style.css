@@ -323,10 +323,10 @@ li {
    margin: 0 !important;
 }
 
-.col-xs-12 p {
-    display: inline-block;
-}
-
 .white-text {
     color: #fff;
+}
+
+.align-text {
+    text-align: center;
 }
