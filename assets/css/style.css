@@ -210,7 +210,11 @@ li {
     
   }
 
-  .row {
+  .container-marketing .row {
+      margin-bottom: 50px;
+  }
+
+  .container-marketing .news .row {
       margin-bottom: 50px;
   }
 
