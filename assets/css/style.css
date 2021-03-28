@@ -326,3 +326,7 @@ li {
 .col-xs-12 p {
     display: inline-block;
 }
+
+.white-text {
+    color: #fff;
+}
