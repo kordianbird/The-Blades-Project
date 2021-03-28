@@ -323,10 +323,16 @@ li {
    margin: 0 !important;
 }
 
+  /* CUSTOM CLASSES */
+
 .white-text {
     color: #fff;
 }
 
 .align-text {
     text-align: center;
+}
+
+.hr-green {
+    border-top: 3px solid #097969;
 }
