@@ -239,7 +239,7 @@ li {
   .container-marketing {
       margin: 100px 60px 100px 50px;
   }
-
+  /* CONTAINER-MARKETING COLUMNS */
   .container-marketing .col-md-3 {
       padding: 0 !important;
   }
@@ -274,6 +274,8 @@ li {
     font-size: 20px;
     
   }
+
+  /* ROWS */
 
   .container-marketing .row {
       margin-bottom: 50px;
@@ -319,4 +321,8 @@ li {
   .nopadding {
    padding: 0 !important;
    margin: 0 !important;
+}
+
+.col-xs-12 p {
+    display: inline-block;
 }
