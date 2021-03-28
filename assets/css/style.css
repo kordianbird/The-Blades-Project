@@ -336,3 +336,9 @@ li {
 .hr-green {
     border-top: 3px solid #097969;
 }
+
+  /* TOUR DATES */
+
+.container-fluid .col-xl-4 p {
+    margin-top: 5px;
+}
