@@ -184,7 +184,7 @@ li {
       border-radius: 40px;
       margin-top: 0;
       display: inline-block;
-      margin-left: 80px;
+      margin-left: 30px;
   }
 
   .container-marketing .col-md-3 p {
@@ -274,7 +274,7 @@ li {
       margin-top: 16px;
   }
 
-  .music-sample .row .col-md-4 {
-      padding-left: 0;
-      padding-right: 0;
-  }
+  .nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
