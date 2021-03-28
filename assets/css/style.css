@@ -3,15 +3,15 @@
      background-color: #212529 !important;
  }
  
+ /* HEADER NAVBAR */
+
 .navbar,
 .navbar-expand-sm,
 .navbar-dark,
 .bg-dark {
     padding-top: 0 !important;
     padding-bottom: 0 !important;
-}
-
- /* HEADER */       
+}      
 
 .home-page .navbar-brand {
     padding-left: 20px;
@@ -63,6 +63,24 @@
     width: 80px;
 }
 
+.tour-page .navbar-brand {
+    padding-left: 20px;
+    background-image: linear-gradient(45deg, #AFE1AF, #097969);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    font-family: 'Brush Script MT' !important;
+    font-size: 80px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.tour-page .navbar-brand img {
+    height: 80px;
+    width: 80px;
+}
+
 ul {
     letter-spacing: 2px;
 }
@@ -83,10 +101,8 @@ li {
 }
 
 .hero img {
-    position: absolute;
-    height: 800px;
     width: 100%;
-    top: 0;
+    height: 800px;
   } 
 
 .hero-img {
@@ -99,11 +115,18 @@ li {
 }
 
 .hero-img img {
-    position: absolute;
-    height: 800px;
     width: 100%;
-    top: 0;
+    height: 800px;
     
+}
+
+.hero-gallery {
+    height: 800px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero-gallery img {
@@ -111,7 +134,59 @@ li {
     height: 800px;
 }
 
-  /* ABOUT */
+.hero-tour {
+    height: 800px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-tour img {
+    width: 100%;
+    height: 800px;
+}
+
+/* HERO IMAGE TEXT */
+
+ .hero-img .center {
+      color: #fff;
+      font-size: 150px;
+      position: absolute;
+      bottom: 350px;
+      left: 270px;
+      font-family: 'Brush Script MT';
+  }
+
+  .hero-gallery .center {
+      color: #fff;
+      font-size: 200px;
+      position: absolute;
+      bottom: 300px;
+      left: 350px;
+      font-family: 'Brush Script MT';
+  }
+
+  .hero .center {
+      color: #fff;
+      font-size: 200px;
+      position: absolute;
+      bottom: 300px;
+      left: 350px;
+      font-family: 'Brush Script MT';
+  }
+
+  .hero-tour .center {
+      color: #fff;
+      font-size: 200px;
+      position: absolute;
+      bottom: 300px;
+      left: 300px;
+      font-family: 'Brush Script MT';
+  }
+
+  /* Heading */
 
   h2 {
       text-align: center;
@@ -124,6 +199,8 @@ li {
       
       
   }
+
+  /* ABOUT BAND SECTION */
 
   .about {
       background-color: #212529;
@@ -145,15 +222,6 @@ li {
       font-size: 40px;
   }
 
-  .hero-gallery .about-heading h2 {
-      margin-bottom: 0;
-      background-color: #212529;
-      padding-top: 50px;
-      color: #fff;   
-      padding-bottom: 30px;
-      font-size: 40px;
-  }
-
   .about p {
       color: #fff;
       text-align: center;
@@ -164,12 +232,9 @@ li {
 
   .about-band {
       background-color: #212529;
-      
-      
-      
   }
 
-  /* BAND INFO */
+  /* CONTAINER-MARKETING */
 
   .container-marketing {
       margin: 100px 60px 100px 50px;
@@ -222,32 +287,7 @@ li {
       padding-left: 0 !important;
   }
 
-  .hero-img .center {
-      color: #fff;
-      font-size: 150px;
-      position: absolute;
-      bottom: 350px;
-      left: 270px;
-      font-family: 'Brush Script MT';
-  }
-
-  .hero-gallery .center {
-      color: #fff;
-      font-size: 200px;
-      position: absolute;
-      bottom: 350px;
-      left: 350px;
-      font-family: 'Brush Script MT';
-  }
-
-  .hero .center {
-      color: #fff;
-      font-size: 200px;
-      position: absolute;
-      bottom: 300px;
-      left: 350px;
-      font-family: 'Brush Script MT';
-  }
+  /* NEWS */
 
   .news .col-md-3 {
     color: #fff;
@@ -273,6 +313,8 @@ li {
       margin-right: 10px;
       margin-top: 16px;
   }
+
+  /* IFRAME */
 
   .nopadding {
    padding: 0 !important;
