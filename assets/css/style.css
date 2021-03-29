@@ -240,11 +240,11 @@ li {
       margin: 100px 60px 100px 50px;
   }
   /* CONTAINER-MARKETING COLUMNS */
-  .container-marketing .col-md-3 {
+  .container-marketing .col-md-2 {
       padding: 0 !important;
   }
 
-  .container-marketing .col-md-3 p {
+  .container-marketing .col-md-2 p {
       color: #fff;
       text-align: center;
       margin-right: 90px;
@@ -252,12 +252,12 @@ li {
       letter-spacing: 2px;
   }
 
-  .container-marketing .col-md-8 {
+  .container-marketing .col-md-7 {
       padding-top: 5px;
       background: linear-gradient(to right, purple, red);
   }
 
-  .container-marketing .col-md-8 p {
+  .container-marketing .col-md-7 p {
     color: #fff;
     text-align: center;
     margin-top: 50px;
@@ -332,7 +332,7 @@ li {
 }
 
 .img-right {
-
+    float: left;
 }
 
   /* TOUR DATES */
