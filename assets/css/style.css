@@ -248,7 +248,6 @@ li {
       color: #fff;
       text-align: center;
       margin-right: 90px;
-      font-family: 'Anton', sans-serif;
       letter-spacing: 2px;
   }
 
@@ -286,7 +285,6 @@ li {
     padding: 0 50px 0 50px;
     text-align: center;
     border: seashell 3px solid;
-    border-radius: 40px;
   }
 
   .news .col-md-3 h3 {
@@ -296,7 +294,6 @@ li {
   .news .col-md-8 {
     padding: 0;
     background: linear-gradient(to right, #89CFF0, blue);
-    margin-left: 60px;
     
   }
 
