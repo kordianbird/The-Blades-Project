@@ -191,7 +191,6 @@ li {
   h2 {
       text-align: center;
       background-color: #fff;
-      width: 200px;
       text-align: center;
       margin: auto;
       border-radius: 25px;
@@ -263,6 +262,7 @@ li {
     font-size: 20px;
     
   }
+
 
   /* ROWS */
 
@@ -338,6 +338,7 @@ li {
     background: none !important;
     border: none !important;
 }
+
 
   /* TOUR DATES */
 
