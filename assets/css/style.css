@@ -284,7 +284,7 @@ li {
     padding: 0 50px 0 50px;
     text-align: center;
     border: seashell 3px solid;
-    background: linear-gradient(to right, #89CFF0, blue);
+    background: linear-gradient(to top, #6F8FAF, blue);
   }
 
   .news .col-md-2 h3 {
@@ -339,6 +339,7 @@ li {
 }
 
 
+
   /* TOUR DATES */
 
 .container-fluid .col-xl-4 p {
@@ -353,8 +354,18 @@ li {
 
 .about-heading .white-text {
     text-align: center;
-    margin: 40px 0 40px 0;
+    margin: 40px 40px 40px 40px;
     font-size: 40px;
-    border: seashell 1px solid;
+    border: seashell 2px solid;
     border-radius: 30px;
+}
+
+/* NEWS STYLING */
+
+.container-marketing h4 {
+    text-align: center;
+    margin: 0 0 40px 0;
+    font-size: 50px;
+    
+
 }
