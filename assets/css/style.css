@@ -210,7 +210,7 @@ li {
       width: 800px;
       border: seashell 3px solid;
       border-radius: 40px;
-      background: linear-gradient(to right, purple, red);
+      background: linear-gradient(to right, purple, #e2062c);
   }
 
   .about-heading h2 {
@@ -252,12 +252,12 @@ li {
       letter-spacing: 2px;
   }
 
-  .container-marketing .col-md-7 {
+  .container-marketing .col-md-6 {
       padding-top: 5px;
-      background: linear-gradient(to right, purple, red);
+      background: linear-gradient(to right, purple, #e2062c);
   }
 
-  .container-marketing .col-md-7 p {
+  .container-marketing .col-md-6 p {
     color: #fff;
     text-align: center;
     margin-top: 50px;
