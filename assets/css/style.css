@@ -348,3 +348,13 @@ li {
 .tour-dates .container-fluid {
     padding-right: 0;
 }
+
+/* GALLERY STYLING */
+
+.about-heading .white-text {
+    text-align: center;
+    margin: 40px 0 40px 0;
+    font-size: 40px;
+    border: seashell 1px solid;
+    border-radius: 30px;
+}
