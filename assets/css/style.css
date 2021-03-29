@@ -285,6 +285,7 @@ li {
     padding: 0 50px 0 50px;
     text-align: center;
     border: seashell 3px solid;
+    background: linear-gradient(to right, #89CFF0, blue);
   }
 
   .news .col-md-2 h3 {
@@ -293,7 +294,8 @@ li {
 
   .news .col-md-3 {
     padding: 0;
-    background: linear-gradient(to right, #89CFF0, blue);
+    color: #fff;
+    border: seashell 3px solid;
     
   }
 
@@ -334,6 +336,7 @@ li {
 
 .clear {
     background: none !important;
+    border: none !important;
 }
 
   /* TOUR DATES */
