@@ -391,3 +391,11 @@ li {
     height: 400px;
   }
 }
+
+@media screen and (max-width: 375px) {
+  .hero .center {
+    font-size: 50px;
+    bottom: auto;
+    left: auto !important;
+  }
+}
