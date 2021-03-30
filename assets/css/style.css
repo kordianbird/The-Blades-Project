@@ -368,6 +368,8 @@ li {
     font-size: 50px;
 }
 
+/* MEDIA QUERIES */
+
 @media screen and (max-width: 375px) {
   .home-page .navbar-brand {
     font-size: 40px !important;
@@ -378,5 +380,14 @@ li {
   .home-page .navbar-brand img {
     width: 40px;
     height: 40px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .hero {
+    height: 400px;
+  }
+  .hero img {
+    height: 400px;
   }
 }
