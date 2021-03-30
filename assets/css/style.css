@@ -406,4 +406,13 @@ li {
   .img-left {
     float: none;
   }
+  .img-right {
+      float: none;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .container-marketing .row {
+    margin-right: -26px;
+  }
 }
