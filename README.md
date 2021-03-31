@@ -21,3 +21,7 @@ section to give samples of the band's music and tour dates.
 ## Existing Features
 
 navbar - allows the user to switch between pages
+
+hero image - gives the website a nicer look
+
+about section - provides the reader insight into what 'The Blades' do and each member's back story
