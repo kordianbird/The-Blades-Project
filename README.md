@@ -20,8 +20,18 @@ section to give samples of the band's music and tour dates.
 
 ## Existing Features
 
-navbar - allows the user to switch between pages
+* __navbar__ - allows the user to switch between pages
 
-hero image - gives the website a nicer look
+* __hero image__ - gives the website a nicer look
 
-about section - provides the reader insight into what 'The Blades' do and each member's back story
+* __about section__ - provides the reader insight into what 'The Blades' do and each member's back story
+
+* __news section__ - provides the reader with recent events related to 'The Blades'
+
+* __gallery section images__ - shows 8 images from the band's latest tours to give an idea what their concerts look like
+
+* __gallery section music__ - shows 6 of the band's most popular songs with audio controls to welcome the new fans
+
+* __tour dates section__ - provides date and location for the band's next concert of the current tour
+
+* __tour dates section__ tickets - a button is located underneath tour dates which takes the user to ticketmaster.com to purchase tickets to a concert 
