@@ -16,4 +16,8 @@ section to give samples of the band's music and tour dates.
 
 * as a fan, I would love to find out when and where the next concert is going to be held so I can book the tickets 
 
+# Features
 
+## Existing Features
+
+navbar - allows the user to switch between pages
