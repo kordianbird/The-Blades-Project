@@ -38,12 +38,12 @@ section to give samples of the band's music and tour dates.
 
 ## Technologies Used
 
-* [HTML5](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%2C%20or,displayed%20in%20a%20web%20browser.)
-- This project uses html (HyperText Markup Language) 
+* [HTML5](https://en.wikipedia.org/wiki/HTML)
+-This project uses html (HyperText Markup Language) as the markup language for this project
 
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
-- I used ccs3 to style many aspects of the website 
+-I used ccs3 to style many aspects of the website 
 
 * [Bootstrap](https://getbootstrap.com/)
-- I used Bootstrap to help me make sections responsive and to create a responsive Navbar
+-I used Bootstrap to help me make sections responsive and to create a responsive Navbar
 
