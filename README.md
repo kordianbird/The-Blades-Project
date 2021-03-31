@@ -35,3 +35,15 @@ section to give samples of the band's music and tour dates.
 * __tour dates section__ - provides date and location for the band's next concert of the current tour
 
 * __tour dates section__ tickets - a button is located underneath tour dates which takes the user to ticketmaster.com to purchase tickets to a concert 
+
+## Technologies Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%2C%20or,displayed%20in%20a%20web%20browser.)
+- This project uses html (HyperText Markup Language) 
+
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+- I used ccs3 to style many aspects of the website 
+
+* [Bootstrap](https://getbootstrap.com/)
+- I used Bootstrap to help me make sections responsive and to create a responsive Navbar
+
