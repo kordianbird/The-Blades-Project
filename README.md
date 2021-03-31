@@ -36,6 +36,10 @@ section to give samples of the band's music and tour dates.
 
 * __tour dates section__ tickets - a button is located underneath tour dates which takes the user to ticketmaster.com to purchase tickets to a concert 
 
+## Next Features
+
+* __fixed social media bar__ - adds a bar on the side of the website that is fixed which has social media links inside
+
 # Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
