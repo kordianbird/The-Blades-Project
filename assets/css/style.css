@@ -339,6 +339,11 @@ li {
     width: 302.828px;
 }
 
+.img-size img {
+    width: 430.25px; 
+    height: 400px;
+}
+
 .clear {
     background: none !important;
     border: none !important;
@@ -478,6 +483,10 @@ li {
       float: none;
       width: inherit;
   }
+  .img-size img {
+      width: 150px;
+      height: 150px;
+  }
 }
 
 @media screen and (min-width: 280px) and (max-width: 414px) {
@@ -486,5 +495,8 @@ li {
   }
   .zero {
       margin: 0 !important;
+  }
+  .about-heading .white-text {
+      font-size: 30px;
   }
 }
