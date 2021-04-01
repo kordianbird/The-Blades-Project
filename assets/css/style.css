@@ -374,6 +374,11 @@ li {
     border-radius: 30px;
 }
 
+.music-sample .nopadding iframe {
+    width: 300px;
+    height: 380px;
+}
+
 /* NEWS STYLING */
 
 .container-marketing h4 {
@@ -475,17 +480,17 @@ li {
 }
 
 @media screen and (min-width: 280px) and (max-width: 414px) {
-  .img-left {
+  .col-md-12 .img-left {
     float: none;
     width: inherit;
   }
-  .img-right {
-      float: none;
-      width: inherit;
+  .col-md-12 .img-right {
+    float: none;
+    width: inherit;
   }
   .img-size img {
-      width: 150px;
-      height: 150px;
+    width: 150px;
+    height: 150px;
   }
 }
 
@@ -494,9 +499,13 @@ li {
     margin-right: -26px;
   }
   .zero {
-      margin: 0 !important;
+    margin: 0 !important;
   }
   .about-heading .white-text {
-      font-size: 30px;
+    font-size: 30px;
+  }
+  .music-sample .nopadding iframe {
+    width: 150px;
+    height: 150px;
   }
 }
