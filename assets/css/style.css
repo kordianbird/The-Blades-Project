@@ -344,6 +344,9 @@ li {
     border: none !important;
 }
 
+.zero {
+    margin: 100px 60px 100px 50px;
+}
 
 
   /* TOUR DATES */
@@ -480,5 +483,8 @@ li {
 @media screen and (min-width: 280px) and (max-width: 414px) {
   .container-marketing .row {
     margin-right: -26px;
+  }
+  .zero {
+      margin: 0 !important;
   }
 }
