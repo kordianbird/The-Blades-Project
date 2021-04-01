@@ -421,11 +421,22 @@ li {
   .hero {
     height: 400px;
   }
+  .hero-img {
+    height: 400px;
+  }
   .hero img {
+    height: 400px;
+  }
+  .hero-img img {
     height: 400px;
   }
   .hero .center {
     font-size: 40px !important;
+    bottom: auto !important;
+    left: auto !important;
+  }
+  .hero-img .center {
+    font-size: 35px !important;
     bottom: auto !important;
     left: auto !important;
   }
