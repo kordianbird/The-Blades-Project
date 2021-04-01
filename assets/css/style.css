@@ -380,7 +380,14 @@ li {
   .home-page .navbar-brand {
     font-size: 40px !important;
   }
+  .news-page .navbar-brand {
+      font-size: 40px !important;
+  }
   .home-page .navbar-brand img {
+    width: 40px;
+    height: 40px;
+  }
+  .news-page .navbar-brand img {
     width: 40px;
     height: 40px;
   }
