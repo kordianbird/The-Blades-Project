@@ -243,23 +243,23 @@ li {
       margin: 100px 60px 100px 50px;
   }
   /* CONTAINER-MARKETING COLUMNS */
-  .container-marketing .col-md-2 {
+  .container-marketing .col-lg-2 {
       padding: 0 !important;
   }
 
-  .container-marketing .col-md-2 p {
+  .container-marketing .col-lg-2 p {
       color: #fff;
       text-align: center;
       margin-right: 90px;
       letter-spacing: 2px;
   }
 
-  .container-marketing .col-md-6 {
+  .container-marketing .col-lg-6 {
       padding-top: 5px;
       background: linear-gradient(to right, purple, #e2062c);
   }
 
-  .container-marketing .col-md-6 p {
+  .container-marketing .col-lg-6 p {
     color: #fff;
     text-align: center;
     margin-top: 50px;
@@ -330,12 +330,12 @@ li {
 }
 
 .img-left {
-    float: right;
+    /* float: right; */
     width: 302.828px;
 }
 
 .img-right {
-    float: left;
+    /* float: left; */
     width: 302.828px;
 }
 
