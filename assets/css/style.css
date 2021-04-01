@@ -21,7 +21,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
     font-family: 'Brush Script MT' !important;
-    font-size: 80px !important;
+    font-size: 80px ;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
     
@@ -370,11 +370,11 @@ li {
     font-size: 50px;
 }
 
-/* MEDIA QUERIES */
+/* MEDIA QUERIES*/
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 280px) and (max-width: 414px) {
   .home-page .navbar-brand {
-    font-size: 50px !important;
+    font-size: 40px !important;
   }
   .home-page .navbar-brand img {
     width: 40px;
@@ -382,7 +382,7 @@ li {
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 280px) and (max-width: 414px) {
   .hero {
     height: 400px;
   }
@@ -390,28 +390,30 @@ li {
     height: 400px;
   }
   .hero .center {
-    font-size: 50px;
-    bottom: auto;
+    font-size: 40px !important;
+    bottom: auto !important;
     left: auto !important;
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 280px) and (max-width: 414px) {
   .about {
     width: auto;
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 280px) and (max-width: 414px) {
   .img-left {
     float: none;
+    width: inherit;
   }
   .img-right {
       float: none;
+      width: inherit;
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 280px) and (max-width: 414px) {
   .container-marketing .row {
     margin-right: -26px;
   }
