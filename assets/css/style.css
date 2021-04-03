@@ -406,6 +406,9 @@ li {
   .gallery-page .navbar-brand {
     font-size: 40px !important;
   }
+  .tour-page .navbar-brand {
+    font-size: 40px !important;
+  }
   .home-page .navbar-brand img {
     width: 40px;
     height: 40px;
@@ -415,6 +418,10 @@ li {
     height: 40px;
   }
   .news-page .navbar-brand img {
+    width: 40px;
+    height: 40px;
+  }
+  .tour-page .navbar-brand img {
     width: 40px;
     height: 40px;
   }
@@ -442,6 +449,9 @@ li {
     bottom: auto !important;
     left: auto !important;
   }
+  .img-left {
+      float: none;
+  }
 }
 
 @media screen and (min-width: 280px) and (max-width: 414px) {
@@ -454,6 +464,9 @@ li {
   .hero-gallery {
     height: 400px;
   }
+  .hero-tour {
+    height: 400px;
+  }
   .hero img {
     height: 400px;
   }
@@ -461,6 +474,9 @@ li {
     height: 400px;
   }
   .hero-gallery img {
+    height: 400px;
+  }
+  .hero-tour img {
     height: 400px;
   }
   .hero .center {
@@ -477,6 +493,11 @@ li {
     font-size: 40px !important;
     bottom: auto !important;
     left: auto !important;
+  }
+  .hero-tour .center {
+    font-size: 40px !important;
+    bottom: auto !important;
+    left: auto !important; 
   }
 }
 
