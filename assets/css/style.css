@@ -320,7 +320,7 @@ li {
 
   .nopadding {
    padding: 0 !important;
-   margin: 0 !important;
+   margin: 0 ;
 }
 
   /* CUSTOM CLASSES */
@@ -373,6 +373,14 @@ li {
 }
 
 /* GALLERY STYLING */
+
+.col-lg-3 {
+    margin-bottom: 5% !important;
+}
+
+.music-sample .col-md-4 {
+    margin-bottom: 5%;
+}
 
 .about-heading .white-text {
     text-align: center;
@@ -602,5 +610,9 @@ li {
   }
   .col-lg-3 {
       width: 50% !important;
+  }
+  .music-sample .nopadding iframe {
+    width: 200px;
+    height: 200px;
   }
 }
