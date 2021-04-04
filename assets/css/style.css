@@ -402,8 +402,8 @@ li {
     font-size: 50px;
 }
 
-/* MEDIA QUERIES*/
 
+/* MEDIA QUERIES*/
 
 
 
@@ -438,7 +438,7 @@ li {
   }
 }
 
-@media screen and (min-width: 540px) and (max-width: 1000px) {
+@media screen and (min-width: 540px) and (max-width: 1024px) {
   .home-page .navbar-brand {
     font-size: 40px !important;
   }
@@ -446,6 +446,9 @@ li {
     font-size: 40px !important;
   }
   .gallery-page .navbar-brand {
+    font-size: 40px !important;
+  }
+  .tour-page .navbar-brand {
     font-size: 40px !important;
   }
   .home-page .navbar-brand img {
@@ -457,6 +460,10 @@ li {
     height: 40px;
   }
   .gallery-page .navbar-brand img {
+    width: 40px;
+    height: 40px;
+  }
+  .tour-page .navbar-brand img {
     width: 40px;
     height: 40px;
   }
@@ -483,6 +490,11 @@ li {
     font-size: 70px !important;
     bottom: auto !important;
     left: auto !important;  
+  }
+  .hero-tour .center {
+    font-size: 70px !important;
+    bottom: auto !important;
+    left: auto !important;
   }
   .img-left {
     float: none;
