@@ -288,7 +288,7 @@ li {
 
   /* NEWS */
 
-  .news .col-md-2 {
+  .news .col-md-4 {
     color: #fff;
     padding: 0 50px 0 50px;
     text-align: center;
@@ -300,18 +300,21 @@ li {
       margin-top: 10px;
   }
 
-  .news .col-md-3 {
+  .news .col-md-4 {
     padding: 0;
     color: #fff;
     border: seashell 3px solid;
-    
   }
 
-  .news .col-md-3 p {
+  .news .col-md-4 p {
       margin-left: 10px;
       margin-right: 10px;
       margin-top: 16px;
   }
+  .news .no-back {
+      background: none !important;
+  }
+
 
   /* IFRAME */
 
@@ -427,16 +430,23 @@ li {
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1200px) {
+@media screen and (min-width: 540px) and (max-width: 1000px) {
   .home-page .navbar-brand {
+    font-size: 40px !important;
+  }
+  .news-page .navbar-brand {
     font-size: 40px !important;
   }
   .home-page .navbar-brand img {
     width: 40px;
     height: 40px;
   }
+  .news-page .navbar-brand img {
+    width: 40px;
+    height: 40px;
+  }
   .navbar-dark .navbar-nav .nav-link {
-    font-size: 20px;
+    font-size: 20px !important;
   }
   li {
     margin-right: 30px;
@@ -449,8 +459,13 @@ li {
     bottom: auto !important;
     left: auto !important;
   }
+  .hero-img .center {
+    font-size: 50px !important;
+    bottom: auto !important;
+    left: auto !important;
+  }
   .img-left {
-      float: none;
+    float: none;
   }
 }
 
@@ -485,7 +500,7 @@ li {
     left: auto !important;
   }
   .hero-img .center {
-    font-size: 35px !important;
+    font-size: 30px !important;
     bottom: auto !important;
     left: auto !important;
   }
@@ -535,5 +550,21 @@ li {
   .music-sample .nopadding iframe {
     width: 150px;
     height: 150px;
+  }
+}
+
+@media screen  and (min-width: 1024px) and (max-width: 1080px) {
+  .hero .center {
+    font-size: 80px !important;
+    bottom: auto !important;
+    left: auto !important;
+    }
+   .hero-img .center {
+    font-size: 80px !important;
+    bottom: auto !important;
+    left: auto !important;
+   } 
+  .row .col-md-12 .col-lg-2 .nopadding {
+    width: 0 !important;
   }
 }
