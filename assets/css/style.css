@@ -245,7 +245,7 @@ li {
   /* CONTAINER-MARKETING */
 
   .container-marketing {
-      margin: 100px 60px 100px 50px;
+      margin: 100px 60px 0 50px;
   }
   /* CONTAINER-MARKETING COLUMNS */
   .container-marketing .col-lg-2 {
@@ -682,4 +682,14 @@ li {
 .icon-bar a:hover {
   background-color: #000;
    }
+}
+
+@media screen and (max-width: 1399px) {
+    .icon-bar {
+        text-align: center;
+        font-size: xxx-large;
+    }
+    .icon-bar a {
+        color: #fff;
+    }
 }
