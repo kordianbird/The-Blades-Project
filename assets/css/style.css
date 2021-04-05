@@ -324,7 +324,6 @@ li {
 }
 
   /* CUSTOM CLASSES */
-
 .white-text {
     color: #fff;
 }
@@ -468,7 +467,7 @@ li {
     height: 40px;
   }
   .navbar-dark .navbar-nav .nav-link {
-    font-size: 20px !important;
+    font-size: 17px !important;
   }
   li {
     margin-right: 30px;
@@ -597,7 +596,7 @@ li {
   }
 }
 
-@media screen  and (min-width: 1024px) and (max-width: 1080px) {
+@media screen  and (min-width: 1024px) and (max-width: 1366px) {
    .hero .center {
     font-size: 80px !important;
     bottom: auto !important;
@@ -626,5 +625,8 @@ li {
   .music-sample .nopadding iframe {
     width: 200px;
     height: 200px;
+  }
+  .col-md-12 .img-left {
+      float: none !important;
   }
 }
