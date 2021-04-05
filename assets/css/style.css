@@ -630,3 +630,9 @@ li {
       float: none !important;
   }
 }
+
+@media screen and (min-width: 1400px) {
+   .no-m {
+       margin-right: 0 !important;
+   }
+}
