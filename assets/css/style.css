@@ -406,7 +406,7 @@ li {
 
 
 
-@media screen and (min-width: 280px) and (max-width: 414px) {
+@media screen and (min-width: 280px) and (max-width: 512px) {
   .home-page .navbar-brand {
     font-size: 40px !important;
   }
@@ -512,7 +512,7 @@ li {
   }
 }
 
-@media screen and (min-width: 280px) and (max-width: 414px) {
+@media screen and (min-width: 280px) and (max-width: 512px) {
   .hero {
     height: 400px;
   }
@@ -559,13 +559,13 @@ li {
   }
 }
 
-@media screen and (min-width: 280px) and (max-width: 414px) {
+@media screen and (min-width: 280px) and (max-width: 512px) {
   .about {
     width: auto;
   }
 }
 
-@media screen and (min-width: 280px) and (max-width: 414px) {
+@media screen and (min-width: 280px) and (max-width: 512px) {
   .col-md-12 .img-left {
     float: none;
     width: inherit;
@@ -580,7 +580,7 @@ li {
   }
 }
 
-@media screen and (min-width: 280px) and (max-width: 414px) {
+@media screen and (min-width: 280px) and (max-width: 512px) {
   .container-marketing .row {
     margin-right: -26px;
   }
