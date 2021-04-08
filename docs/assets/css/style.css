@@ -420,7 +420,7 @@ li {
 /* MEDIA QUERIES*/
 
 
-
+/* MEDIA QUERIES: NAVBAR LOGO STYLING */
 @media screen and (min-width: 280px) and (max-width: 512px) {
   .home-page .navbar-brand {
     font-size: 40px !important;
@@ -452,6 +452,14 @@ li {
   }
 }
 
+/* MEDIA QUERIES: CONRAINER MARGINS FOR SMALL DEVICES */
+@media screen and (max-width: 1024px) {
+  .container-marketing {
+    margin: 100px 10px 0 10px;
+    }
+}
+
+/* MEDIA QUERIES: NAVBAR AND HERO-IMAGE FOR SMALL DEVICES */
 @media screen and (min-width: 540px) and (max-width: 1024px) {
   .home-page .navbar-brand {
     font-size: 40px !important;
@@ -520,6 +528,7 @@ li {
   
 }
 
+/* MEDIA QUERIES: MEASUREMENTS FOR IFRAME FOR TABLETS */
 @media screen and (min-width: 768px) and (max-width:1024px) {
    .music-sample .nopadding iframe {
     width: 200px;
@@ -527,6 +536,7 @@ li {
   }
 }
 
+/* MEDIA QUERIES: HERO-IMAGE STYLING FOR SMALL DEVICES */
 @media screen and (min-width: 280px) and (max-width: 512px) {
   .hero {
     height: 400px;
@@ -572,14 +582,12 @@ li {
     bottom: auto !important;
     left: auto !important; 
   }
-}
-
-@media screen and (min-width: 280px) and (max-width: 512px) {
   .about {
     width: auto;
   }
 }
 
+/* MEDIA QUERIES: IMAGE STYLING FOR INDEX PAGE FOR SMALL DEVICES*/
 @media screen and (min-width: 280px) and (max-width: 512px) {
   .col-md-12 .img-left {
     float: none;
@@ -595,6 +603,7 @@ li {
   }
 }
 
+/* MEDIA QUERIES: CONTAINER MARGIN, CUSTOM CLASSES AND IFRAME STYLING FOR SMALL DEVICES */
 @media screen and (min-width: 280px) and (max-width: 512px) {
   .container-marketing .row {
     margin-right: -26px;
@@ -611,6 +620,7 @@ li {
   }
 }
 
+/* MEDIA QUERIES: IMAGE AND IFRAME STYLING FOR TABLETS */
 @media screen  and (min-width: 1024px) and (max-width: 1366px) {
    .hero .center {
     font-size: 80px !important;
@@ -646,6 +656,7 @@ li {
   }
 }
 
+/* MEDIA QUERIES: ICON-BAR STYLING FOR DESKTOP */
 @media screen and (min-width: 1400px) {
    .no-m {
        margin-right: 0 !important;
@@ -699,6 +710,7 @@ li {
    }
 }
 
+/* MEDIA QUERIES: ICON-BAR STYLING FOR DEVICES SMALLER THAN DESKTOP */
 @media screen and (max-width: 1399px) {
     .icon-bar {
         text-align: center;
