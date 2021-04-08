@@ -297,6 +297,14 @@ li {
     background: linear-gradient(to top, #6F8FAF, blue);
   }
 
+  .news .col-md-8 {
+    color: #fff;
+    padding: 0 50px 0 50px;
+    text-align: center;
+    border: seashell 3px solid;
+    background: linear-gradient(to top, #6F8FAF, blue);
+  }
+
   .news .col-md-2 h3 {
       margin-top: 10px;
   }
@@ -312,6 +320,12 @@ li {
       margin-right: 10px;
       margin-top: 16px;
   }
+
+  .news .col-md-4 img {
+      height: 260px;
+      width: inherit;
+  }
+
   .news .no-back {
       background: none !important;
   }
