@@ -69,4 +69,13 @@ section to give samples of the band's music and tour dates.
 4. click on the dropdown titled "none" and select a branch
 5. after the page refreshes scroll down the "Pages" section again to find your published site link
 
+## Forking the GitHub Repository
+
+Forking the repository makes a copy of the original in your GitHub account to view/make changes without affecting the original.
+These are steps you can use to fork the repository:
+
+1. Log in to GitHub and navigate to the repository
+2. find the 'Fork' button at the top of the repository below your profile picture 
+3. You now have a copy of the repository in your account
+
 # Credits
