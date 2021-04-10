@@ -192,7 +192,7 @@ li {
       font-size: 200px;
       position: absolute;
       bottom: 300px;
-      left: 300px;
+      left: auto;
       font-family: 'Brush Script MT';
   }
 
