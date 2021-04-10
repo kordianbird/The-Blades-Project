@@ -78,4 +78,15 @@ These are steps you can use to fork the repository:
 2. find the 'Fork' button at the top of the repository below your profile picture 
 3. You now have a copy of the repository in your account
 
+## Local Clone
+
+1. Log in to GitHub and find the repository
+2. Under repository find and click on "Clone or Download"
+3. You can clone the repository using HTTPS by copying the link under "Clone with HTTPS"
+4. Open Git Bash 
+5. Change directory to the location where you want to clone the new directory
+6. Type `git clone` and paste the copied URL 
+`$ git clone https://github.com/USERNAME/REPOSITORY`
+7. Press enter
+
 # Credits
