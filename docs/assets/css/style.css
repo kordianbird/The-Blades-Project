@@ -654,6 +654,9 @@ li {
   .col-md-12 .img-left {
       float: none !important;
   }
+  .col-md-12 img {
+      height: 311px;
+  }
 }
 
 /* MEDIA QUERIES: ICON-BAR STYLING FOR DESKTOP */
