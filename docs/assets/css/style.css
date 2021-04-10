@@ -637,6 +637,11 @@ li {
     bottom: auto;
     left: auto;
    }
+   .hero-tour .center {
+    font-size: 80px !important;
+    bottom: auto !important;
+    left: auto !important;
+   }
   .row .col-md-12 .col-lg-2 .nopadding {
     width: 0 !important;
   }
