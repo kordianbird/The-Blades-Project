@@ -38,7 +38,7 @@ section to give samples of the band's music and tour dates.
 
 ## Next Features
 
-* __fixed social media bar__ - adds a bar on the side of the website that is fixed which has social media links inside
+- [x]  __fixed social media bar__ - adds a bar on the side of the website that is fixed which has social media links inside
 
 # Technologies Used
 
@@ -59,6 +59,14 @@ section to give samples of the band's music and tour dates.
 
 # Deployment
 
+## GitHub Pages
 
+* I deployed my project to GitHub Pages by performing these steps:
+
+1. Log in to GitHub and navigate to your repository
+2. find the "Settings" button next to "Insights"
+3. find the "Pages" button on the left side of the settings page
+4. click on the dropdown titled "none" and select a branch
+5. after the page refreshes scroll down the "Pages" section again to find your published site link
 
 # Credits
