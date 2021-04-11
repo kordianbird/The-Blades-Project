@@ -25,11 +25,13 @@
     background-size: 100%;
     background-repeat: repeat;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent; 
     font-family: 'Brush Script MT' !important;
     font-size: 80px ;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
+    color: linear-gradient(45deg, blue, red);
     
 }
 
@@ -48,6 +50,7 @@
     background-size: 100%;
     background-repeat: repeat;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent; 
     font-family: 'Brush Script MT' !important;
     font-size: 80px !important;
@@ -79,6 +82,7 @@
     background-size: 100%;
     background-repeat: repeat;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent; 
     font-family: 'Brush Script MT' !important;
     font-size: 80px !important;
