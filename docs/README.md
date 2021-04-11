@@ -42,6 +42,8 @@ section to give samples of the band's music and tour dates.
 
 # Technologies Used
 
+## Languages
+
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
 -This project uses html (HyperText Markup Language) as the markup language for this project
 
@@ -49,9 +51,15 @@ section to give samples of the band's music and tour dates.
 -I used ccs3 to style many aspects of the website
 -media queries were used to make certain parts of the website responsive on mobile and tablet
 
+## Framework
+
 * [Bootstrap](https://getbootstrap.com/)
 -I used Bootstrap to help me make sections responsive and to create a responsive Navbar
 
+## Libraries
+
+* [Google-Fonts](https://fonts.google.com/)
+-I used google fonts to import 'Anton', 'BebasNeue' and 'Roboto' fonts
 
 # Testing 
 
