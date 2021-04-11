@@ -115,3 +115,27 @@ These are steps you can use to fork the repository:
 7. Press enter
 
 # Credits
+
+## Code 
+
+* Logo heading color-gradient code was used from a StackOverflow question
+
+* social-media-bar code was used from [w3schools](https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp)
+
+* Bootstrap was used for Navbar and grid system
+
+## Content
+
+* All content was written by me personally
+
+* background color #212529 was picked because that was the default color of the navbar in bootstrap version 5 beta3  
+
+* color gradients were picked from [ColorSpace](https://mycolor.space/)
+
+## Media
+
+* images of concerts, band members and news images were found on [Google-Images](https://images.google.com/imghp?hl=en&gl=ar&gws_rd=ssl)
+
+* Logo for the band was created using [Canva](https://www.canva.com/)
+
+* songs used in gallery.html were taken directly from a [Spotify playlist](https://open.spotify.com/playlist/4b5R9YIlg7pncFkaSfAx9v)
