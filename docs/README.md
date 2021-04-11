@@ -59,7 +59,7 @@ section to give samples of the band's music and tour dates.
 ## Libraries
 
 * [Google-Fonts](https://fonts.google.com/)
--I used google fonts to import 'Anton', 'BebasNeue' and 'Roboto' fonts
+-I used google fonts to import 'Anton' and 'Roboto' fonts
 
 # Testing 
 

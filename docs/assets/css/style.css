@@ -291,9 +291,9 @@ li {
 
   .news .col-md-4 {
     color: #fff;
-    padding: 0 50px 0 50px;
+    padding: 0;
     text-align: center;
-    border: seashell 3px solid;
+    
     background: linear-gradient(to top, #6F8FAF, blue);
   }
 
@@ -307,12 +307,6 @@ li {
 
   .news .col-md-2 h3 {
       margin-top: 10px;
-  }
-
-  .news .col-md-4 {
-    padding: 0;
-    color: #fff;
-    border: seashell 3px solid;
   }
 
   .news .col-md-4 p {
