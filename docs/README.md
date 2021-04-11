@@ -76,7 +76,7 @@ section to give samples of the band's music and tour dates.
 -I used GitHub to store my project code 
 
 * [Balsamiq](https://balsamiq.com/)
--I used Balsamiq to create my [wireframes](Wireframes/The Blades M.1 Project.pdf) for the project
+-I used Balsamiq to create my wireframes for the project
 
 # Testing 
 
