@@ -61,6 +61,23 @@ section to give samples of the band's music and tour dates.
 * [Google-Fonts](https://fonts.google.com/)
 -I used google fonts to import 'Anton' and 'Roboto' fonts
 
+* [Font-Awesome](https://fontawesome.com/)
+-I used font awesome to add social media icons in every page
+
+* [jQuery](https://jquery.com/)
+-jQuery was included with bootstrap and I used it to make th navbar responsive for smaller devices
+
+## Programs
+
+* [Git](https://git-scm.com/)
+-I used gitpod's terminal to commit my code and then to push it to GitHub
+
+* [GitHub](https://github.com/)
+-I used GitHub to store my project code 
+
+* [Balsamiq](https://balsamiq.com/)
+-I used Balsamiq to create my [wireframes](Wireframes/The Blades M.1 Project.pdf) for the project
+
 # Testing 
 
 
