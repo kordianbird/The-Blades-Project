@@ -163,42 +163,42 @@ li {
 /* HERO IMAGE TEXT */
 
  .hero-img .center {
-      color: #fff;
-      font-size: 150px;
-      position: absolute;
-      font-family: 'Brush Script MT';
+    color: #fff;
+    font-size: 150px;
+    position: absolute;
+    font-family: 'Brush Script MT';
   }
 
   .hero-gallery .center {
-      color: #fff;
-      font-size: 200px;
-      position: absolute;
-      font-family: 'Brush Script MT';
+    color: #fff;
+    font-size: 200px;
+    position: absolute;
+    font-family: 'Brush Script MT';
   }
 
   .hero .center {
-      color: #fff;
-      font-size: 200px;
-      position: absolute;
-      font-family: 'Brush Script MT';
+    color: #fff;
+    font-size: 200px;
+    position: absolute;
+    font-family: 'Brush Script MT';
   }
 
   .hero-tour .center {
-      color: #fff;
-      font-size: 150px;
-      position: absolute;
-      font-family: 'Brush Script MT';
-  }
+    color: #fff;
+    font-size: 150px;
+    position: absolute;
+    font-family: 'Brush Script MT';
+}
 
   /* Heading */
 
   h2 {
-      text-align: center;
-      background-color: #fff;
-      text-align: center;
-      margin: auto;
-      border-radius: 25px;
-      font-family: 'Roboto';
+    text-align: center;
+    background-color: #fff;
+    text-align: center;
+    margin: auto;
+    border-radius: 25px;
+    font-family: 'Roboto';
       
       
   }
@@ -206,57 +206,57 @@ li {
   /* ABOUT BAND SECTION */
 
   .about {
-      background-color: #212529;
-      padding-top: 30px;
-      margin-left: auto;
-      margin-right: auto;
-      width: 800px;
-      border: seashell 3px solid;
-      border-radius: 40px;
-      background: linear-gradient(to right, purple, #e2062c);
+    background-color: #212529;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    border: seashell 3px solid;
+    border-radius: 40px;
+    background: linear-gradient(to right, purple, #e2062c);
   }
 
   .about-heading h2 {
-      margin-bottom: 0;
-      background-color: #212529;
-      padding-top: 50px;
-      color: #fff;   
-      padding-bottom: 30px;
-      font-size: 40px;
+    margin-bottom: 0;
+    background-color: #212529;
+    padding-top: 50px;
+    color: #fff;   
+    padding-bottom: 30px;
+    font-size: 40px;
   }
 
   .about p {
-      color: #fff;
-      text-align: center;
-      margin-left: auto;
-      margin-right: auto;
-      font-size: 20px;
+    color: #fff;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
   }
 
   .about-band {
-      background-color: #212529;
+    background-color: #212529;
   }
 
   /* CONTAINER-MARKETING */
 
   .container-marketing {
-      margin: 100px 60px 0 50px;
+    margin: 100px 60px 0 50px;
   }
   /* CONTAINER-MARKETING COLUMNS */
   .container-marketing .col-lg-2 {
-      padding: 0 !important;
+    padding: 0 !important;
   }
 
   .container-marketing .col-lg-2 p {
-      color: #fff;
-      text-align: center;
-      margin-right: 90px;
-      letter-spacing: 2px;
+    color: #fff;
+    text-align: center;
+    margin-right: 90px;
+    letter-spacing: 2px;
   }
 
   .container-marketing .col-lg-6 {
-      padding-top: 5px;
-      background: linear-gradient(to right, purple, #e2062c);
+    padding-top: 5px;
+    background: linear-gradient(to right, purple, #e2062c);
   }
 
   .container-marketing .col-lg-6 p {
@@ -264,21 +264,20 @@ li {
     text-align: center;
     margin-top: 1rem;
     font-size: 20px;
-    
   }
 
   /* ROWS */
 
   .container-marketing .row {
-      margin-bottom: 50px;
+    margin-bottom: 50px;
   }
 
   .container-marketing .news .row {
-      margin-bottom: 50px;
+    margin-bottom: 50px;
   }
 
   .container-fluid {
-      padding-left: 0 !important;
+    padding-left: 0 !important;
   }
 
   /* NEWS */
@@ -299,22 +298,22 @@ li {
   }
 
   .news .col-md-2 h3 {
-      margin-top: 10px;
+    margin-top: 10px;
   }
 
   .news .col-md-4 p {
-      margin-left: 10px;
-      margin-right: 10px;
-      margin-top: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 16px;
   }
 
   .news .col-md-4 img {
-      height: 260px;
-      width: inherit;
+    height: 260px;
+    width: inherit;
   }
 
   .news .no-back {
-      background: none !important;
+    background: none !important;
   }
 
 
@@ -485,7 +484,7 @@ li {
     margin-right: 30px;
   }
   .about {
-      width: auto;
+    width: auto;
   }
   .hero .center {
     font-size: 80px !important;
@@ -592,6 +591,13 @@ li {
   }
 }
 
+/* MEDIA QUERIES: IMAGE STYLING FOR GALLERY ON LARGE SCREENS*/
+@media screen and (min-width: 1400px) {
+  .col-lg-3 img {
+    width: 600px; 
+  }
+}
+
 /* MEDIA QUERIES: CONTAINER MARGIN, CUSTOM CLASSES AND IFRAME STYLING FOR SMALL DEVICES */
 @media screen and (min-width: 280px) and (max-width: 512px) {
   .container-marketing .row {
@@ -635,86 +641,86 @@ li {
     width: 0 !important;
   }
   .img-size img {
-      width: 450px;
-      height: 350px;
+    width: 450px;
+    height: 350px;
   }
   .col-lg-3 {
-      width: 50% !important;
+    width: 50% !important;
   }
   .music-sample .nopadding iframe {
     width: 200px;
     height: 200px;
   }
   .col-md-12 .img-left {
-      float: none !important;
+    float: none !important;
   }
   .col-md-12 img {
-      height: 311px;
+    height: 311px;
   }
 }
 
 /* MEDIA QUERIES: ICON-BAR STYLING FOR DESKTOP */
 @media screen and (min-width: 1400px) {
    .no-m {
-       margin-right: 0 !important;
+    margin-right: 0 !important;
    }
    .icon-bar {
-  position: fixed;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
    }
    .icon-bar a {
-  display: block;
-  text-align: center;
-  padding: 16px;
-  transition: all 0.3s ease;
-  color: white;
-  font-size: 20px;
-  border-radius: 20%;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+    border-radius: 20%;
    }
    .facebook {
-  background: #3B5998;
-  color: white;
+    background: #3B5998;
+    color: white;
    }
 
 .twitter {
-  background: #55ACEE;
-  color: white;
+    background: #55ACEE;
+    color: white;
    }
 
 .twitch {
-  background: #6d09af;
-  color: white;
+    background: #6d09af;
+    color: white;
    }
 
 .spotify {
-  background: #079e2d;
-  color: white;
+    background: #079e2d;
+    color: white;
    }
 
 .youtube {
-  background: #bb0000;
-  color: white;
+    background: #bb0000;
+    color: white;
    }
 
 .content {
-  margin-left: 75px;
-  font-size: 30px;
+    margin-left: 75px;
+    font-size: 30px;
    }
 .icon-bar a:hover {
-  background-color: #000;
+    background-color: #000;
    }
 }
 
 /* MEDIA QUERIES: ICON-BAR STYLING FOR DEVICES SMALLER THAN DESKTOP */
 @media screen and (max-width: 1399px) {
-    .icon-bar {
-        text-align: center;
-        font-size: 45px;
+.icon-bar {
+    text-align: center;
+    font-size: 45px;
     }
-    .icon-bar a {
-        color: #fff;
+.icon-bar a {
+    color: #fff;
     }
 }
