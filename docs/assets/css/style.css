@@ -168,8 +168,6 @@ li {
       color: #fff;
       font-size: 150px;
       position: absolute;
-      bottom: 350px;
-      left: 270px;
       font-family: 'Brush Script MT';
   }
 
@@ -177,8 +175,6 @@ li {
       color: #fff;
       font-size: 200px;
       position: absolute;
-      bottom: 300px;
-      left: 350px;
       font-family: 'Brush Script MT';
   }
 
@@ -186,17 +182,13 @@ li {
       color: #fff;
       font-size: 200px;
       position: absolute;
-      bottom: 300px;
-      left: 350px;
       font-family: 'Brush Script MT';
   }
 
   .hero-tour .center {
       color: #fff;
-      font-size: 200px;
+      font-size: 150px;
       position: absolute;
-      bottom: 300px;
-      left: auto;
       font-family: 'Brush Script MT';
   }
 
@@ -272,7 +264,7 @@ li {
   .container-marketing .col-lg-6 p {
     color: #fff;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 1rem;
     font-size: 20px;
     
   }
@@ -351,11 +343,6 @@ li {
 
 .img-left {
     float: right; 
-    width: 302.828px;
-}
-
-.img-right {
-    /* float: left; */
     width: 302.828px;
 }
 
