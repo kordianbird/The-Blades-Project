@@ -289,8 +289,7 @@ li {
     color: #fff;
     padding: 0;
     text-align: center;
-    
-    background: linear-gradient(to top, #6F8FAF, blue);
+    background: linear-gradient(to bottom, #27A6DE, #2962CB, #1600F8);
   }
 
   .news .col-md-8 {
