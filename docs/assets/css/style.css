@@ -327,6 +327,11 @@ li {
    margin: 0 ;
 }
 
+  .music-sample iframe {
+    border: 0;
+    background-color: transparent;
+  }
+
   /* CUSTOM CLASSES */
 .white-text {
     color: #fff;
@@ -709,7 +714,7 @@ li {
 @media screen and (max-width: 1399px) {
     .icon-bar {
         text-align: center;
-        font-size: xxx-large;
+        font-size: 45px;
     }
     .icon-bar a {
         color: #fff;
