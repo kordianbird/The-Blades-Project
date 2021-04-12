@@ -45,10 +45,10 @@ section to give samples of the band's music and tour dates.
 ## Languages
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
--This project uses html (HyperText Markup Language) as the markup language for this project
+-I used html (HyperText Markup Language) as the markup language for this project
 
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
--I used ccs3 to style many aspects of the website
+-I used css3 to style many aspects of the website
 -media queries were used to make certain parts of the website responsive on mobile and tablet
 
 ## Framework
@@ -65,7 +65,7 @@ section to give samples of the band's music and tour dates.
 -I used font awesome to add social media icons in every page
 
 * [jQuery](https://jquery.com/)
--jQuery was included with bootstrap and I used it to make th navbar responsive for smaller devices
+-jQuery was included with bootstrap and I used it to make the navbar responsive for smaller devices
 
 ## Programs
 
@@ -120,7 +120,7 @@ These are steps you can use to fork the repository:
 
 * Logo heading color-gradient code was used from a StackOverflow question
 
-* social-media-bar code was used from [w3schools](https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp)
+* social-media-bar code was used from [w3schools](https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp) and I added border-radius to each icon
 
 * Bootstrap was used for Navbar and grid system
 
