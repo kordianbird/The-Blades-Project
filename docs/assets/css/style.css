@@ -21,7 +21,7 @@
 
 .home-page .navbar-brand {
     padding-left: 20px;
-    background-image: linear-gradient(45deg, blue, red);
+    background-image: linear-gradient(45deg, #0000ff, #e2062c);
     background-size: 100%;
     background-repeat: repeat;
     -webkit-background-clip: text;
@@ -31,8 +31,6 @@
     font-size: 80px ;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
-    color: linear-gradient(45deg, blue, red);
-    
 }
 
 .home-page .navbar-brand img {
@@ -46,7 +44,7 @@
 
 .news-page .navbar-brand {
     padding-left: 20px;
-    background-image: linear-gradient(45deg, #89CFF0, blue);
+    background-image: linear-gradient(45deg, #89CFF0, #0000ff);
     background-size: 100%;
     background-repeat: repeat;
     -webkit-background-clip: text;
@@ -297,7 +295,7 @@ li {
     padding: 0 50px 0 50px;
     text-align: center;
     border: seashell 3px solid;
-    background: linear-gradient(to top, #6F8FAF, blue);
+    background: linear-gradient(to top, #6F8FAF, #0000ff);
   }
 
   .news .col-md-2 h3 {
