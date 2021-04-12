@@ -669,6 +669,7 @@ li {
   transition: all 0.3s ease;
   color: white;
   font-size: 20px;
+  border-radius: 20%;
    }
    .facebook {
   background: #3B5998;
