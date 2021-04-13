@@ -1,20 +1,35 @@
 # The Blades Project
 
 My project is an official website for a fictional band called "The Blades"
+The webiste aims to invite new people to the band's concerts and to listen to their songs on spotify
 
 # UX
 
-Existing fans along with new fans are eager to find out more about their favourite band and to keep up with the bands everyday lives through
+## User Stories
+
+Existing fans along with new fans are eager to find out more about their favourite band and to keep up with the band's everyday lives through
 social media.
 
-My webiste aims to address the fans goals by adding information about the band members, news section to show whats new with the band, gallery
+My webiste addresses the fans goals by adding information about the band members, news section to show whats new with the band, gallery
 section to give samples of the band's music and tour dates.
 
 * as a new fan, I want to check out the bands best tracks to find a new favourite song 
 
-* as a fan, I would like to find out more about the band's history to get a better understanding of their lyrics
+* as a fan, I would like to find out more about the band's history and it's members
 
 * as a fan, I would love to find out when and where the next concert is going to be held so I can book the tickets 
+
+## Design
+
+* my hero images are supposed to catch the user's attention due to their large size and the slogan in the center
+
+* the iconbar on the side of the screen has bright colors to stand out from the rest of the content
+
+* news section provides images related to the news title to get a clear idea of what the news will be about
+
+* tour dates are all centered with spacing between them to make it easier to reader
+
+* the dark background helps the colorful content stand out
 
 # Features
 
@@ -82,12 +97,14 @@ section to give samples of the band's music and tour dates.
 The W3C Markup Validator and W3C CSS Validator were used to validate my code for each page to make sure no errors were present
 
 [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 I have 5 errors in my css code which I was not able to resolve :
 * text is not a background-clip value(3)
 * Property text-decoration-skip-ink doesn't exist
 * Property overflow-anchor doesn't exist
+
 
 
 # Deployment
