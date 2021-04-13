@@ -79,8 +79,12 @@ section to give samples of the band's music and tour dates.
 -I used Balsamiq to create my wireframes for the project
 
 # Testing 
+The W3C Markup Validator and W3C CSS Validator were used to validate my code for each page to make sure no errors were present
 
+[W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
+[Test Sheet](tests.pdf)
 
 # Deployment
 
