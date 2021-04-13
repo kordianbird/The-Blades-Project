@@ -84,7 +84,11 @@ The W3C Markup Validator and W3C CSS Validator were used to validate my code for
 [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-[Test Sheet](tests.pdf)
+I have 5 errors in my css code which I was not able to resolve :
+* text is not a background-clip value(3)
+* Property text-decoration-skip-ink doesn't exist
+* Property overflow-anchor doesn't exist
+
 
 # Deployment
 
