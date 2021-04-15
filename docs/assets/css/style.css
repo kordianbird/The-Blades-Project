@@ -458,7 +458,7 @@ li {
 /* MEDIA QUERIES: CONRAINER MARGINS AND HERO-GALLERY FOR SMALL DEVICES  */
 @media screen and (max-width: 1024px) {
   .container-marketing {
-    margin: 100px 10px 0 10px;
+    margin: 100px 20px 0 20px;
     }
   .hero-gallery img {
     width: auto;
