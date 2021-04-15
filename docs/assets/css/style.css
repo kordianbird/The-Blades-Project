@@ -440,11 +440,14 @@ li {
   }
 }
 
-/* MEDIA QUERIES: CONRAINER MARGINS FOR SMALL DEVICES */
+/* MEDIA QUERIES: CONRAINER MARGINS AND HERO-GALLERY FOR SMALL DEVICES  */
 @media screen and (max-width: 1024px) {
   .container-marketing {
     margin: 100px 10px 0 10px;
     }
+  .hero-gallery img {
+    width: auto;
+  }
 }
 
 /* MEDIA QUERIES: NAVBAR AND HERO-IMAGE FOR SMALL DEVICES */
