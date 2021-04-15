@@ -50,7 +50,7 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent; 
-    font-family: 'Brush Script MT' !important;
+    font-family: 'Brush Script MT', 'Lily Script One' !important;
     font-size: 80px !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
@@ -63,7 +63,7 @@
 
 .gallery-page .navbar-brand {
     padding-left: 20px; 
-    font-family: 'Brush Script MT' !important;
+    font-family: 'Brush Script MT', 'Lily Script One' !important;
     font-size: 80px !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
@@ -82,7 +82,7 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent; 
-    font-family: 'Brush Script MT' !important;
+    font-family: 'Brush Script MT', 'Lily Script One' !important;
     font-size: 80px !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
@@ -166,28 +166,28 @@ li {
     color: #fff;
     font-size: 150px;
     position: absolute;
-    font-family: 'Brush Script MT';
+    font-family: 'Brush Script MT', 'Lily Script One';
   }
 
   .hero-gallery .center {
     color: #fff;
     font-size: 200px;
     position: absolute;
-    font-family: 'Brush Script MT';
+    font-family: 'Brush Script MT', 'Lily Script One';
   }
 
   .hero .center {
     color: #fff;
     font-size: 200px;
     position: absolute;
-    font-family: 'Brush Script MT';
+    font-family: 'Brush Script MT', 'Lily Script One';
   }
 
   .hero-tour .center {
     color: #fff;
     font-size: 150px;
     position: absolute;
-    font-family: 'Brush Script MT';
+    font-family: 'Brush Script MT', 'Lily Script One';
 }
 
   /* Heading */
