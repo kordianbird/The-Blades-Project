@@ -107,7 +107,7 @@ I have 5 errors in my css code which I was not able to resolve :
 * Property text-decoration-skip-ink doesn't exist
 * Property overflow-anchor doesn't exist
 
-
+[Tests](https://github.com/kordianbird/The-Blades-Project/blob/master/docs/tests/tests.pdf)
 
 # Deployment
 
