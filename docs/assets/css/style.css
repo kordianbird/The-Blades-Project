@@ -27,7 +27,7 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent; 
-    font-family: 'Brush Script MT' !important;
+    font-family: 'Brush Script MT', 'Lily Script One' !important;
     font-size: 80px ;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
@@ -362,7 +362,7 @@ li {
 }
 
 .centerpar {
-    font-size: 50px;
+    font-size: 25px;
     bottom: 100px;
     position: absolute;
     font-family: 'Lily Script One';
@@ -463,6 +463,12 @@ li {
   .hero-gallery img {
     width: auto;
   }
+  .centerpar {
+    font-size: 15px;
+    bottom: 100px;
+    position: absolute;
+    font-family: 'Lily Script One';
+}
 }
 
 /* MEDIA QUERIES: NAVBAR AND HERO-IMAGE FOR SMALL DEVICES */
@@ -742,3 +748,4 @@ li {
     color: #fff;
     }
 }
+
