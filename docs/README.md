@@ -3,7 +3,7 @@
 My project is an official website for a fictional band called "The Blades"
 The webiste aims to invite new people to the band's concerts and to listen to their songs on spotify
 
-[wireframes](docs/wireframes/The-Blades-M.1-Project.pdf)
+[wireframes](https://github.com/kordianbird/The-Blades-Project/blob/master/docs/Wireframes/The-Blades-M.1-Project.pdf)
 
 # UX
 
