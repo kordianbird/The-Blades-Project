@@ -2,6 +2,7 @@
 
 My project is an official website for a fictional band called "The Blades"
 The webiste aims to invite new people to the band's concerts and to listen to their songs on spotify
+[wireframes](Wireframes/The Blades M.1 Project.pdf)
 
 [wireframes](wireframes/The-Blades-M.1-Project.pdf)
 
